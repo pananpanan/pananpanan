@@ -1,0 +1,2 @@
+CK-vs-TH.Ttest.fillter	Down	Not sig	Up
+Freq	  937	27178	 1951

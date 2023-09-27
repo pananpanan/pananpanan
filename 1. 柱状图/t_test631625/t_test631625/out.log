@@ -1,0 +1,32 @@
+[2023-06-27 10:01:26] Pipe start now!
+CheckParameter
+Data type(genedenovo): no
+Group Info:
+CK-1	CK
+CK-2	CK
+CK-3	CK
+T-1	T
+T-2	T
+T-3	T
+TH-1	TH
+TH-2	TH
+TH-3	TH
+
+Compare Info:
+CK	T
+CK	TH
+T	TH
+
+log2fc cutoff: 1
+pqcut: q 0.05
+edgeR dispersion : no
+Use edgeR NormFactors: no
+
+Read Input files
+Compare diffs
+Compare: T-vs-TH
+Compare: CK-vs-T
+Compare: CK-vs-TH
+[2023-06-27 10:02:16] All Done!
+
+Thank you for using. If you have any suggestions and opinions, please contact us by email: omicshare@genedenovo.com

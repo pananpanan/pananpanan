@@ -1,0 +1,4 @@
+group	UP	DOWN
+T-vs-CK.Ttest.fillter	5000	3618
+TH-vs-CK.Ttest.fillter	212	343
+TH-vs-T.Ttest.fillter	4438	6000

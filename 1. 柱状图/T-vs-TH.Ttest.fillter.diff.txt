@@ -1,0 +1,2 @@
+T-vs-TH.Ttest.fillter	Down	Not sig	Up
+Freq	 4848	21548	 4918

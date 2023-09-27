@@ -1,0 +1,2 @@
+CK-vs-T.Ttest.fillter	Down	Not sig	Up
+Freq	 4167	22256	 4951

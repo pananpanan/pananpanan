@@ -1,0 +1,7 @@
+[
+  ["UP","DOWN"],
+  ["CK-vs-T.Ttest.fillter",28,21],
+  ["CK-vs-TH.Ttest.fillter",12,2],
+  ["T-vs-TH.Ttest.fillter",30,21]
+]
+[["UP","DOWN"],["CK-vs-T.Ttest.fillter",28,21],["CK-vs-TH.Ttest.fillter",12,2], ["T-vs-TH.Ttest.fillter",30,21]]
