@@ -1,0 +1,6 @@
+KC_1	CK
+KC_2	CK
+KC_3	CK
+Liver_rec_1	T
+Liver_rec_2	T
+Liver_rec_3	T
