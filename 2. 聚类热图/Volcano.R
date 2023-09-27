@@ -165,6 +165,7 @@ Volcano<-function(data,log2FC,pvalue,VIP1,VIP2){
 #df=Data
 result <- Volcano(data,log2FC,pvalue,VIP1,VIP2)
 cat(result, "\n")
-
+cat(result, "\n")
+cat(result, "\n")
 
 
